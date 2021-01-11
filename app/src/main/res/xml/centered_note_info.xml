@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:configure="me.umbara.anothernote.centeredNoteConfigureActivity"
+    android:initialKeyguardLayout="@layout/centered_note"
+    android:initialLayout="@layout/centered_note"
+    android:minWidth="110dp"
+    android:minHeight="40dp"
+    android:previewImage="@drawable/centered_preview"
+    android:resizeMode="horizontal|vertical"
+    android:widgetCategory="home_screen"></appwidget-provider>

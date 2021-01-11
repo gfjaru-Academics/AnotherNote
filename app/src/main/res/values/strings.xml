@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Another Note</string>
+    <string name="appwidget_text">Contoh</string>
+    <string name="configure">Tambah catatan</string>
+    <string name="add_widget">Tambahkan ke layar utama</string>
+    <string name="nfo">Aplikasi ini hanya bekerja pada widget saja</string>
+    <string name="nfo2">Silhakan tekan tahan pada homescreen, lalu tambah widget</string>
+    <string name="nfo3">Tersedia 2 pilihan, rata kanan atau left2right</string>
+    <string name="widget_ltr">Left to right</string>
+    <string name="widget_c">Centered</string>
+</resources>
